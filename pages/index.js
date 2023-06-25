@@ -1,6 +1,6 @@
 import { Product, FooterBanner, HeroBanner } from "@/components";
 import { client } from "@/lib/client";
-import banner from "@/sanity_e-commerce/schemas/banner";
+
 
 const Home = ({ products, bannerData }) => {
   return (
